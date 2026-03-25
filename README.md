@@ -36,6 +36,16 @@ The dataset contains information about delivery orders with the following featur
 
 ## Machine Learning Pipeline
 
+## Exploratory Data Analysis (EDA)
+
+Before training the models, we explore the dataset to better understand the relationships between variables and the target.
+
+We focus on:
+- Distribution of delivery time
+- Impact of distance on delivery time
+- Influence of traffic conditions
+- Effect of weather conditions
+
 ### 1. Data Preprocessing
 - Handling missing values  
 - Encoding categorical variables using one-hot encoding  
