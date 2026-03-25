@@ -1,0 +1,16 @@
+{
+  "Distance_km": 5.2,
+  "Preparation_Time_min": 18,
+  "Courier_Experience_yrs": 2,
+  "Weather_Foggy": 0,
+  "Weather_Rainy": 1,
+  "Weather_Snowy": 0,
+  "Weather_Windy": 0,
+  "Traffic_Level_Low": 0,
+  "Traffic_Level_Medium": 1,
+  "Time_of_Day_Evening": 1,
+  "Time_of_Day_Morning": 0,
+  "Time_of_Day_Night": 0,
+  "Vehicle_Type_Car": 0,
+  "Vehicle_Type_Scooter": 1
+}
